@@ -1,0 +1,18 @@
+{
+  "actions": ["counting", "writing", "examining"],
+  "currencies": ["USD", "100"],
+  "spatial_tags": [
+    "center-bottom",
+    "center",
+    "left-center",
+    "left",
+    "right",
+    "top-left",
+    "top-right",
+    "top-center"
+  ],
+  "motion_summary": "No significant displacement of static objects; subtle changes in tablet screen data indicating ongoing market activity.",
+  "semantic_tags": ["transaction", "analysis", "wealth_display", "investment"],
+  "summary_text": "A scene depicting focused financial activity with hands interacting with a tablet displaying a dynamic stock market chart. Surrounding objects include a stack of US currency, eyeglasses, a notebook, and various desk accessories, reinforcing the context of financial analysis or investment. The overhead perspective and consistent lighting suggest a controlled workspace environment.",
+  "themes": ["analysis", "investment", "wealth"]
+}

@@ -1,0 +1,46 @@
+## Summary Table
+
+| Object Type | Attributes | Text/OCR | Coordinates |
+|---|---|---|---|
+| Currency (US Dollar Bills) | Stacked, banded, $100 denomination, paper, green/white | "100", "THE UNITED STATES OF AMERICA", "ONE HUNDRED DOLLARS", "FEDERAL RESERVE NOTE", "B", "12", "2017", "WASHINGTON, D.C.", "100" | Various, predominantly Center and Bottom-Right |
+
+## Detailed Breakdown
+
+**Frame 1:**
+
+*   **Subject Inventory:** US Dollar Bills (stacked).
+*   **Detailed Attributes:** Stacks of $100 bills, banded with paper wrappers. The bills appear to be new or in excellent condition. The paper texture is visible. No brand or logo is present beyond the standard US currency markings. The state is "stacked and piled."
+*   **Text/OCR Dump:** "100", "THE UNITED STATES OF AMERICA", "ONE HUNDRED DOLLARS", "FEDERAL RESERVE NOTE", "B", "12", "2017", "WASHINGTON, D.C.", "100".
+*   **Environment & Lighting:** Soft, diffused overhead lighting creating subtle highlights and shadows on the bills. The background is dark and out of focus, suggesting a contained environment. Depth of field is shallow, with foreground bills sharp and background bills blurred.
+*   **Coordinates:** Piles of bills are distributed across the frame, with significant concentrations in the Center and Bottom-Right.
+
+**Frame 2:**
+
+*   **Subject Inventory:** US Dollar Bills (stacked).
+*   **Detailed Attributes:** Identical to Frame 1. Stacks of $100 bills, banded with paper wrappers. Bills appear new or in excellent condition. Paper texture is visible. Standard US currency markings. State is "stacked and piled."
+*   **Text/OCR Dump:** "100", "THE UNITED STATES OF AMERICA", "ONE HUNDRED DOLLARS", "FEDERAL RESERVE NOTE", "B", "12", "2017", "WASHINGTON, D.C.", "100".
+*   **Environment & Lighting:** Identical to Frame 1. Soft, diffused overhead lighting. Dark, out-of-focus background. Shallow depth of field.
+*   **Coordinates:** Piles of bills are distributed across the frame, with significant concentrations in the Center and Bottom-Right.
+
+**Frame 3:**
+
+*   **Subject Inventory:** US Dollar Bills (stacked).
+*   **Detailed Attributes:** Identical to Frame 1 and 2. Stacks of $100 bills, banded with paper wrappers. Bills appear new or in excellent condition. Paper texture is visible. Standard US currency markings. State is "stacked and piled."
+*   **Text/OCR Dump:** "100", "THE UNITED STATES OF AMERICA", "ONE HUNDRED DOLLARS", "FEDERAL RESERVE NOTE", "B", "12", "2017", "WASHINGTON, D.C.", "100".
+*   **Environment & Lighting:** Identical to Frame 1 and 2. Soft, diffused overhead lighting. Dark, out-of-focus background. Shallow depth of field.
+*   **Coordinates:** Piles of bills are distributed across the frame, with significant concentrations in the Center and Bottom-Right.
+
+## Cross-Frame Delta Analysis (Motion)
+
+*   **Displacement:** No discernible displacement of individual stacks or bills is observed between the frames. The scene appears static.
+*   **State Changes:** No changes in light, focus, or object status are detected.
+*   **Hidden Data:** No data is occluded in one frame and revealed in another. The entire scene remains consistently visible.
+
+## Semantic Context
+
+*   **The "Why":** The specific objective of this sequence, based strictly on visual evidence, is to present a large quantity of US currency, specifically $100 bills, in a visually impactful manner. The arrangement suggests wealth, accumulation, or a focus on financial assets.
+*   **Technical Specs:** Focal length appears to be moderately wide, allowing for a broad view of the pile of money. Camera height is likely at or slightly above eye-level relative to the depicted scene, providing a slightly elevated perspective.
+
+## Final Synthesis
+
+The sequence presents a static, high-density visual of numerous stacks of $100 US dollar bills. Each frame is virtually identical, showcasing a large accumulation of currency with clear markings of denomination and origin. The lighting is soft and diffused, highlighting the paper texture and banded stacks, while the dark, out-of-focus background emphasizes the subject matter. The consistent presentation across all frames suggests an intent to convey the sheer volume and presence of money, without any narrative progression or change in the scene's state.

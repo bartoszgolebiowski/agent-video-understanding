@@ -1,0 +1,72 @@
+## Summary Table
+
+| Object/Text | Frame 1 | Frame 2 | Frame 3 |
+|---|---|---|---|
+| **Person 1 (Hand/Arm)** | Not Visible | Right arm, green checkered shirt, holding money | Not Visible |
+| **Person 2 (Hand)** | Not Visible | Left hand, dark clothing, reaching | Not Visible |
+| **Currency (US Dollar Bill)** | Not Visible | One $100 bill | Not Visible |
+| **Background** | Plain, light gray | Plain, light gray | Plain, light gray |
+
+## Detailed Breakdown
+
+**Frame 1**
+
+*   **Subject Inventory:** None visible.
+*   **Detailed Attributes:** None visible.
+*   **Text/OCR Dump:** None visible.
+*   **Environment & Lighting:** Plain, light gray background. Lighting appears to be diffuse and from the front, creating a flat illumination. No distinct shadows are visible.
+*   **Coordinates:** N/A
+
+**Frame 2**
+
+*   **Subject Inventory:**
+    *   Person 1 (partial): Right arm and hand.
+    *   Person 2 (partial): Left hand.
+    *   Currency: One US Dollar bill.
+*   **Detailed Attributes:**
+    *   Person 1: Right arm is visible, wearing a long-sleeved shirt with a green and white checkered pattern. The fabric appears to be cotton. The hand is holding a US Dollar bill.
+    *   Person 2: Left hand is visible, with fingers slightly curled. The hand is partially obscured by dark clothing.
+    *   Currency: One US Dollar bill, appears to be a $100 denomination. The portrait of Benjamin Franklin is visible. The paper texture is consistent with currency.
+*   **Text/OCR Dump:**
+    *   On the dollar bill: "THE UNITED STATES OF AMERICA", "100", "ONE HUNDRED DOLLARS", "FEDERAL RESERVE NOTE", "B", "2013", "WASHINGTON D.C.", "SERIES", "MC12392820A", "100", "100".
+*   **Environment & Lighting:** Plain, light gray background. Lighting is diffuse and appears to be coming from the front and slightly to the right, casting a subtle shadow from the hand holding the money to the left. The background has a slight depth, appearing slightly out of focus.
+*   **Coordinates:**
+    *   Person 1 (arm/hand): Center-Right.
+    *   Currency: Center.
+    *   Person 2 (hand): Center-Left.
+
+**Frame 3**
+
+*   **Subject Inventory:** None visible.
+*   **Detailed Attributes:** None visible.
+*   **Text/OCR Dump:** None visible.
+*   **Environment & Lighting:** Plain, light gray background. Lighting is diffuse and from the front, similar to Frame 1. No distinct shadows are visible.
+*   **Coordinates:** N/A
+
+## Cross-Frame Delta Analysis (Motion)
+
+*   **Displacement:**
+    *   The US Dollar bill moved from being not visible in Frame 1 to being held by Person 1 in Frame 2.
+    *   Person 1's right arm and hand moved into the frame from the right, holding the currency.
+    *   Person 2's left hand moved into the frame from the left, reaching towards the currency.
+    *   The currency, held by Person 1, appears to be in the process of being transferred to Person 2.
+    *   All visible subjects from Frame 2 are absent in Frame 3.
+*   **State Changes:**
+    *   The primary state change is the introduction and subsequent removal of subjects and the currency.
+    *   Focus remains consistent across the frames where subjects are present.
+    *   Lighting remains consistent.
+*   **Hidden Data:**
+    *   In Frame 1, the hands of both individuals and the currency were occluded.
+    *   In Frame 2, the majority of both individuals (bodies, faces) are occluded.
+    *   In Frame 3, the subjects and currency from Frame 2 are now occluded.
+
+## Semantic Context
+
+*   **The "Why":** Based strictly on the visual evidence, the specific objective of this sequence is to depict a transaction involving the transfer of US currency. Specifically, it shows one person handing a $100 bill to another.
+*   **Technical Specs:**
+    *   Focal Length: Appears to be a moderate focal length, possibly around 50mm, allowing for a clear view of the hands and currency without significant distortion. It is not a wide-angle or extreme telephoto.
+    *   Camera Height: Eye-level, consistent with a natural perspective of observing a transaction.
+
+## Final Synthesis
+
+The visual sequence documents a financial exchange. Frame 1 establishes a neutral, empty background. Frame 2 introduces two hands engaged in a transaction, with one individual in a green checkered shirt clearly presenting a $100 bill to another individual whose hand is reaching out from the left. The text on the bill is legible, confirming its denomination and origin. Frame 3 returns to the empty background, indicating the completion of the transaction and the departure of the subjects. The objective is a clear, albeit brief, visual representation of money changing hands.

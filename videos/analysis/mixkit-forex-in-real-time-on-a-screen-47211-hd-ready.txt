@@ -1,0 +1,99 @@
+## Summary Table
+
+| Object/Text | Description |
+|---|---|
+| **Display Screen** | Dark, reflective surface. |
+| **Financial Chart** | Candlestick chart displaying a downward trend. |
+| **Y-Axis Labels** | Numerical values indicating price points (e.g., 400.00, 500.00, 600.00, 700.00, 800.00, 900.00, 1000.00). |
+| **Grid Lines** | Horizontal and vertical lines forming a graph background. |
+| **Candlesticks** | Red and green bars representing price fluctuations. |
+| **Current Price Indicator** | Red horizontal line with a red rectangular box displaying a numerical value. |
+| **UI Elements (Right Edge)** | Vertical bar with icons and potentially scrollable content. |
+
+## Detailed Breakdown
+
+### Frame 1
+
+*   **Subject Inventory:**
+    *   Display Screen
+    *   Financial Chart
+*   **Detailed Attributes:**
+    *   **Display Screen:** Dark, appears to be a monitor or screen displaying data.
+    *   **Financial Chart:** Candlestick chart, predominantly red candlesticks indicating a declining trend. Green candlesticks are visible earlier in the chart's history.
+*   **Text/OCR Dump:**
+    *   Y-Axis Labels: 400.00, 500.00, 600.00, 700.00, 800.00, 900.00, 1000.00.
+    *   Current Price Indicator: Red rectangular box with a numerical value (partially obscured, appears to be around 570-580).
+    *   UI Elements (Right Edge): Vertical bar with indistinct icons.
+*   **Environment & Lighting:**
+    *   Light Source: Internal to the display, illuminating the chart. Ambient light is low, creating reflections on the screen.
+    *   Shadows: Not applicable to the screen content itself.
+    *   Background Depth: Out of focus, dark, and indistinct.
+*   **Coordinates:**
+    *   Financial Chart: Occupies the majority of the frame, extending from Left to Right, and Top to Bottom.
+    *   Y-Axis Labels: Right side of the frame.
+    *   Current Price Indicator: Lower-middle right section of the chart.
+
+### Frame 2
+
+*   **Subject Inventory:**
+    *   Display Screen
+    *   Financial Chart
+*   **Detailed Attributes:**
+    *   **Display Screen:** Dark, reflective.
+    *   **Financial Chart:** Candlestick chart, the downward trend continues. The current price has dropped further.
+*   **Text/OCR Dump:**
+    *   Y-Axis Labels: 400.00, 500.00, 600.00, 700.00, 800.00, 900.00, 1000.00.
+    *   Current Price Indicator: Red rectangular box with a numerical value (appears to be around 570.14).
+    *   UI Elements (Right Edge): Vertical bar with indistinct icons.
+*   **Environment & Lighting:**
+    *   Light Source: Internal to the display.
+    *   Shadows: Not applicable.
+    *   Background Depth: Out of focus, dark.
+*   **Coordinates:**
+    *   Financial Chart: Occupies the majority of the frame.
+    *   Y-Axis Labels: Right side.
+    *   Current Price Indicator: Lower-middle right section of the chart, slightly lower than in Frame 1.
+
+### Frame 3
+
+*   **Subject Inventory:**
+    *   Display Screen
+    *   Financial Chart
+*   **Detailed Attributes:**
+    *   **Display Screen:** Dark, reflective.
+    *   **Financial Chart:** Candlestick chart, the downward trend is still evident, though the immediate current price indicator is less distinct due to focus or a slight shift.
+*   **Text/OCR Dump:**
+    *   Y-Axis Labels: 400.00, 500.00, 600.00, 700.00, 800.00, 900.00, 1000.00.
+    *   Current Price Indicator: Red rectangular box with a numerical value (obscured by focus/motion blur).
+    *   UI Elements (Right Edge): Vertical bar with indistinct icons.
+*   **Environment & Lighting:**
+    *   Light Source: Internal to the display.
+    *   Shadows: Not applicable.
+    *   Background Depth: Out of focus, dark.
+*   **Coordinates:**
+    *   Financial Chart: Occupies the majority of the frame.
+    *   Y-Axis Labels: Right side.
+    *   Current Price Indicator: Lower-middle right section of the chart.
+
+## Cross-Frame Delta Analysis (Motion)
+
+*   **Displacement:**
+    *   The financial chart's current price indicator (red horizontal line and box) has moved downwards on the Y-axis between Frame 1 and Frame 2, indicating a price decrease.
+    *   The overall trend of the candlesticks has continued its downward trajectory from Frame 1 through Frame 3.
+*   **State Changes:**
+    *   The numerical value displayed in the current price indicator has changed between Frame 1 and Frame 2, reflecting a decrease.
+    *   Focus appears to shift slightly or become less sharp on the current price indicator in Frame 3 compared to Frame 2.
+*   **Hidden Data:**
+    *   In Frame 1, the lower portion of the Y-axis scale (below 400.00) is not visible. This remains consistent across all frames.
+    *   The specific numerical value within the red current price indicator box is more clearly visible in Frame 2 than in Frame 1 or Frame 3.
+
+## Semantic Context
+
+*   **The "Why":** The specific objective of this sequence is to document a declining trend in financial market data, likely a stock or cryptocurrency. The focus is on observing and recording the price movement over a short period.
+*   **Technical Specs:**
+    *   Focal Length: Appears to be a moderate to telephoto focal length, as the display screen fills the frame and details on the chart are visible.
+    *   Camera Height: Likely eye-level or slightly above, consistent with viewing a monitor.
+
+## Final Synthesis
+
+The visual evidence presents a sequence of a financial trading display, meticulously documenting a significant downward trend in market prices. Each frame captures a snapshot of a candlestick chart, with the red indicators signifying losses and the current price marker consistently descending along the Y-axis. The consistent downward trajectory, punctuated by the decreasing numerical value of the current price, strongly suggests a period of financial decline being monitored or recorded. The limited visible UI elements and the focus solely on the chart indicate a dedicated observation of market performance.

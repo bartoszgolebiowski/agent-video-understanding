@@ -1,0 +1,9 @@
+{
+  "actions": ["counting", "writing"],
+  "currencies": ["gold-toned coins", "silver-toned coins"],
+  "spatial_tags": ["center-left", "background", "right", "foreground"],
+  "motion_summary": "The human hand moves from the top-left to the center-left, becoming more engaged with a document. Coin stacks change in number and arrangement, with some being removed and others introduced.",
+  "semantic_tags": ["transaction", "analysis", "wealth_display"],
+  "summary_text": "The video depicts a financial process involving the arrangement and counting of gold and silver coins. A human hand with red nail polish enters the scene, initially observing and then actively writing on a document with a blue pen. The sequence suggests financial analysis, accounting, or a shift in investment strategy.",
+  "themes": ["wealth", "analysis", "transaction"]
+}

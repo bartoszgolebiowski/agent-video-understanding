@@ -1,0 +1,85 @@
+## Summary Table
+
+| Object/Text | Attributes | Frame 1 | Frame 2 | Frame 3 |
+|---|---|---|---|---|
+| **Person** | Human, torso and arms visible, wearing black t-shirt | Center | Center | Center |
+| **Money (US Dollars)** | Paper currency, predominantly $100 bills, various denominations visible | Scattered on reflective surface | Scattered on reflective surface | Held by person |
+| **Reflective Surface** | Dark, glossy, mirror-like | Bottom half of frame | Bottom half of frame | Bottom half of frame |
+| **Background** | Solid, gradient from dark to lighter blue | Top half of frame | Top half of frame | Top half of frame |
+| **Text (on currency)** | "100", "THE UNITED STATES OF AMERICA", "ONE HUNDRED DOLLARS" | Visible on bills | Visible on bills | Visible on bills |
+
+---
+
+## Detailed Breakdown
+
+### Frame 1
+
+*   **Subject Inventory:** Person, Money (US Dollars)
+*   **Detailed Attributes:**
+    *   **Person:** Human, torso and arms visible. Wearing a black t-shirt. Hands are manipulating currency.
+    *   **Money (US Dollars):** Primarily $100 bills. Paper material. Some bills appear crisp, others slightly creased. Denominations of $100 are clearly visible on some bills.
+*   **Text/OCR Dump:** "100", "THE UNITED STATES OF AMERICA", "ONE HUNDRED DOLLARS" (visible on currency).
+*   **Environment & Lighting:**
+    *   **Light Source:** Appears to be from the front and slightly above, casting a soft illumination on the currency and the person's hands. A subtle spotlight effect is present.
+    *   **Shadows:** Soft shadows are cast by the currency onto the reflective surface. The person's torso casts a larger, diffused shadow.
+    *   **Background Depth:** Solid blue background with a subtle gradient, appearing to be a studio backdrop. No discernible depth or texture.
+*   **Coordinates:**
+    *   Person's hands: Center-Top
+    *   Scattered currency: Center-Bottom and Center
+
+### Frame 2
+
+*   **Subject Inventory:** Person, Money (US Dollars)
+*   **Detailed Attributes:**
+    *   **Person:** Human, torso and arms visible. Wearing a black t-shirt. Hands are actively sorting or counting currency.
+    *   **Money (US Dollars):** Primarily $100 bills. Paper material. Some bills are being fanned out by the person's left hand.
+*   **Text/OCR Dump:** "100", "THE UNITED STATES OF AMERICA", "ONE HUNDRED DOLLARS" (visible on currency).
+*   **Environment & Lighting:**
+    *   **Light Source:** Consistent with Frame 1, front and slightly above.
+    *   **Shadows:** Similar soft shadows cast by currency and person.
+    *   **Background Depth:** Solid blue background with a subtle gradient.
+*   **Coordinates:**
+    *   Person's hands: Center
+    *   Currency being manipulated: Center
+
+### Frame 3
+
+*   **Subject Inventory:** Person, Money (US Dollars)
+*   **Detailed Attributes:**
+    *   **Person:** Human, torso and arms visible. Wearing a black t-shirt. Hands are holding a stack of currency.
+    *   **Money (US Dollars):** Primarily $100 bills. Paper material. A small stack of bills is held in the person's right hand.
+*   **Text/OCR Dump:** "100", "THE UNITED STATES OF AMERICA", "ONE HUNDRED DOLLARS" (visible on currency).
+*   **Environment & Lighting:**
+    *   **Light Source:** Consistent with previous frames.
+    *   **Shadows:** Shadows are present, though less prominent due to the tighter framing on the hands and currency.
+    *   **Background Depth:** Solid blue background with a subtle gradient.
+*   **Coordinates:**
+    *   Person's hands holding currency: Center-Top
+
+---
+
+## Cross-Frame Delta Analysis (Motion)
+
+*   **Displacement:**
+    *   The stack of currency in the person's right hand has moved from a fanned-out position in the center of the frame (Frame 1 & 2) to a more consolidated stack held towards the top-center (Frame 3).
+    *   The currency on the reflective surface has been reduced, with a significant portion now being held by the person.
+*   **State Changes:**
+    *   **Focus:** The focus appears consistent across all frames, remaining sharp on the currency and the person's hands.
+    *   **Object Status:** The amount of loose currency on the reflective surface has decreased from Frame 1 to Frame 3, indicating it has been gathered or moved.
+*   **Hidden Data:**
+    *   In Frame 1, the full extent of the currency being handled by the person is not visible. Frame 2 reveals more of the fanned-out bills. Frame 3 shows a consolidated stack, implying a transition from spreading to gathering.
+
+---
+
+## Semantic Context
+
+*   **The "Why":** Based strictly on the visual evidence, the specific objective of this sequence is the manipulation and counting of US dollar currency, specifically $100 bills. The progression suggests an action of gathering, organizing, or preparing the money.
+*   **Technical Specs:**
+    *   **Focal Length:** Likely a moderate to telephoto focal length, as the background is out of focus and the subject is relatively close.
+    *   **Camera Height:** Eye-level or slightly above eye-level, given the perspective on the hands and the table surface.
+
+---
+
+## Final Synthesis
+
+The visual sequence documents the handling of US dollar currency, predominantly $100 bills, by an individual wearing a black t-shirt. The frames capture a progression from scattered bills on a reflective surface to the person actively manipulating and consolidating the money in their hands. The lighting is controlled, suggesting a deliberate setup for showcasing the currency and the action of counting or organizing it. The consistent focus and controlled environment imply an intent to present a clear and detailed view of the financial transaction or activity.

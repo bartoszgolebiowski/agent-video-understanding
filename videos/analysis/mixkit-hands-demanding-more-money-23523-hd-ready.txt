@@ -1,0 +1,61 @@
+## Summary Table
+
+| Object/Text | Frame 1 | Frame 2 | Frame 3 |
+|---|---|---|---|
+| **Subject Inventory** |  | Hand (Left), Hand (Right), US Dollar Bill |  |
+| **Detailed Attributes** |  | Hand (Left): Female, pale skin, black nail polish, holding US Dollar Bill. US Dollar Bill: Denomination $100, serial number LB79638312N, green ink, paper. Hand (Right): Male, light skin, green checkered shirt sleeve visible. |  |
+| **Text/OCR Dump** |  | LB79638312N, 100, THE UNITED STATES OF AMERICA, THIS NOTE IS LEGAL TENDER FOR ALL DEBTS, PUBLIC AND PRIVATE, B |  |
+| **Environment & Lighting** | Uniform, neutral lighting, no discernible shadows. | Soft, diffused lighting from the left, casting subtle shadows. Background is a plain, light-colored wall with slight texture. | Uniform, neutral lighting, no discernible shadows. |
+| **Coordinates** |  | Hand (Left): Center-Left. US Dollar Bill: Center-Left. Hand (Right): Center-Right. |  |
+
+## Detailed Breakdown
+
+**Frame 1:**
+
+*   **Subject Inventory:** None.
+*   **Detailed Attributes:** None.
+*   **Text/OCR Dump:** None.
+*   **Environment & Lighting:** Uniform, neutral lighting. No discernible shadows. Background is a plain, light-colored wall with slight texture.
+*   **Coordinates:** N/A.
+
+**Frame 2:**
+
+*   **Subject Inventory:** Hand (Left), Hand (Right), US Dollar Bill.
+*   **Detailed Attributes:**
+    *   Hand (Left): Appears to be a female hand, with pale skin and black nail polish. It is holding a US Dollar Bill.
+    *   US Dollar Bill: A single $100 denomination bill. Visible text includes the serial number "LB79638312N", "100", "THE UNITED STATES OF AMERICA", "THIS NOTE IS LEGAL TENDER FOR ALL DEBTS, PUBLIC AND PRIVATE", and "B". The bill is green and made of paper.
+    *   Hand (Right): Appears to be a male hand, with light skin. A sleeve of a green checkered shirt is visible. The hand is partially closed, with fingers extended.
+*   **Text/OCR Dump:** LB79638312N, 100, THE UNITED STATES OF AMERICA, THIS NOTE IS LEGAL TENDER FOR ALL DEBTS, PUBLIC AND PRIVATE, B
+*   **Environment & Lighting:** Soft, diffused lighting originating from the left, creating subtle shadows. The background is a plain, light-colored wall with a visible, subtle texture.
+*   **Coordinates:** Hand (Left) is positioned in the Center-Left of the frame. The US Dollar Bill is held by the left hand, also in the Center-Left. Hand (Right) is in the Center-Right of the frame.
+
+**Frame 3:**
+
+*   **Subject Inventory:** None.
+*   **Detailed Attributes:** None.
+*   **Text/OCR Dump:** None.
+*   **Environment & Lighting:** Uniform, neutral lighting. No discernible shadows. Background is a plain, light-colored wall with slight texture.
+*   **Coordinates:** N/A.
+
+## Cross-Frame Delta Analysis (Motion)
+
+*   **Displacement:**
+    *   The Hand (Left) and the US Dollar Bill it holds are present in Frame 2, but absent in Frames 1 and 3.
+    *   The Hand (Right) is present in Frame 2, but absent in Frames 1 and 3.
+*   **State Changes:**
+    *   The scene transitions from an empty frame (Frame 1) to a transaction involving currency (Frame 2), and then back to an empty frame (Frame 3).
+    *   Lighting in Frame 2 is directional and softer than the uniform lighting in Frames 1 and 3.
+*   **Hidden Data:**
+    *   In Frame 1, the entire scene of the transaction is occluded.
+    *   In Frame 3, the Hand (Left), US Dollar Bill, and Hand (Right) are occluded.
+
+## Semantic Context
+
+*   **The "Why":** The specific objective of this sequence is to visually depict a financial transaction, specifically the exchange of a $100 US Dollar bill from one individual to another.
+*   **Technical Specs:**
+    *   Focal Length: Likely a moderate focal length, possibly around 50mm, to capture both hands and the bill clearly without significant distortion. It is not a wide-angle or extreme telephoto.
+    *   Camera Height: Eye-level, suggesting the camera is positioned at the approximate height of the individuals involved in the transaction.
+
+## Final Synthesis
+
+The visual evidence presents a clear, albeit brief, depiction of a monetary exchange. Frame 1 establishes an empty, neutral environment. Frame 2 introduces two hands and a $100 US Dollar bill, indicating a transaction in progress, with the bill being offered by the left hand and the right hand poised to receive it. The lighting in this frame suggests a deliberate setup for capturing the action. Frame 3 returns to the empty, neutral state, implying the transaction has concluded and the subjects have moved out of frame. The sequence is a concise visual narrative of a simple financial transfer.

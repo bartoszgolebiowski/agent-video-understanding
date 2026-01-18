@@ -1,0 +1,75 @@
+## 1. Summary Table
+
+| Object Type | Attributes | Text/OCR | Coordinates |
+|---|---|---|---|
+| Currency (US Dollar Bills) | Predominantly green and white, paper texture, stacked in bundles. Denomination: $100. | "100", "THE UNITED STATES OF AMERICA", "ONE HUNDRED DOLLARS" (partially visible on some bills) | Various, covering the entire frame. |
+
+## 2. Detailed Breakdown
+
+### Frame 1
+
+*   **Subject Inventory:**
+    *   Currency (US Dollar Bills)
+*   **Detailed Attributes:**
+    *   Currency: Predominantly green and white, paper texture. Bundles of $100 bills are visible. The state is "stacked" and "piled".
+*   **Text/OCR Dump:**
+    *   "100" (repeatedly on bill faces)
+    *   "THE UNITED STATES OF AMERICA" (partially visible on some bills)
+    *   "ONE HUNDRED DOLLARS" (partially visible on some bills)
+*   **Environment & Lighting:**
+    *   Light Source: Appears to be overhead, casting subtle shadows that define the texture and depth of the stacks. Intensity is moderate, creating a slightly diffused effect.
+    *   Shadows: Present beneath and between the stacks of bills, indicating depth.
+    *   Background Depth: The entire frame is filled with the currency, creating a dense, layered environment with no discernible background beyond the money itself.
+*   **Coordinates:**
+    *   Currency: Occupies the entire frame (Top-Left to Bottom-Right).
+
+### Frame 2
+
+*   **Subject Inventory:**
+    *   Currency (US Dollar Bills)
+*   **Detailed Attributes:**
+    *   Currency: Predominantly green and white, paper texture. Bundles of $100 bills are visible. The state is "stacked" and "piled".
+*   **Text/OCR Dump:**
+    *   "100" (repeatedly on bill faces)
+    *   "THE UNITED STATES OF AMERICA" (partially visible on some bills)
+    *   "ONE HUNDRED DOLLARS" (partially visible on some bills)
+*   **Environment & Lighting:**
+    *   Light Source: Appears to be overhead, casting subtle shadows that define the texture and depth of the stacks. Intensity is moderate, creating a slightly diffused effect.
+    *   Shadows: Present beneath and between the stacks of bills, indicating depth.
+    *   Background Depth: The entire frame is filled with the currency, creating a dense, layered environment with no discernible background beyond the money itself.
+*   **Coordinates:**
+    *   Currency: Occupies the entire frame (Top-Left to Bottom-Right).
+
+### Frame 3
+
+*   **Subject Inventory:**
+    *   Currency (US Dollar Bills)
+*   **Detailed Attributes:**
+    *   Currency: Predominantly green and white, paper texture. Bundles of $100 bills are visible. The state is "stacked" and "piled".
+*   **Text/OCR Dump:**
+    *   "100" (repeatedly on bill faces)
+    *   "THE UNITED STATES OF AMERICA" (partially visible on some bills)
+    *   "ONE HUNDRED DOLLARS" (partially visible on some bills)
+*   **Environment & Lighting:**
+    *   Light Source: Appears to be overhead, casting subtle shadows that define the texture and depth of the stacks. Intensity is moderate, creating a slightly diffused effect.
+    *   Shadows: Present beneath and between the stacks of bills, indicating depth.
+    *   Background Depth: The entire frame is filled with the currency, creating a dense, layered environment with no discernible background beyond the money itself.
+*   **Coordinates:**
+    *   Currency: Occupies the entire frame (Top-Left to Bottom-Right).
+
+## 3. Cross-Frame Delta Analysis (Motion)
+
+*   **Displacement:** No discernible displacement of individual bundles or bills is observed between frames. The overall composition of the pile of money remains static.
+*   **State Changes:** No changes in light, focus, or object status are detected. The scene appears to be a static render or a very slow, imperceptible shift.
+*   **Hidden Data:** No data is revealed or hidden between frames as the viewpoint and the arrangement of the money remain consistent.
+
+## 4. Semantic Context
+
+*   **The "Why":** The visual evidence strictly indicates the presentation or visualization of a large quantity of US currency, specifically $100 bills. The objective appears to be to convey wealth, abundance, or financial value.
+*   **Technical Specs:**
+    *   Focal Length: Wide-angle, allowing for a broad view of the entire pile.
+    *   Camera Height: Overhead or slightly angled down, providing a top-down perspective of the money.
+
+## 5. Final Synthesis
+
+The sequence presents a static, dense accumulation of US $100 bills, viewed from an overhead perspective. Each frame is virtually identical, depicting a vast quantity of currency without any discernible motion or change. The visual emphasis is solely on the sheer volume of money, suggesting themes of wealth, financial power, or abundance.

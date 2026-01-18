@@ -1,0 +1,84 @@
+## Summary Table
+
+| Object/Text | Attributes | Frame 1 | Frame 2 | Frame 3 |
+|---|---|---|---|---|
+| **US Dollar Bills** | Denomination: $100, $50 | Present | Present | Present |
+|  | Color: Green, White | Present | Present | Present |
+|  | Texture: Paper, Ink | Present | Present | Present |
+|  | State: Stacked, Loose | Present | Present | Present |
+| **Bands** | Color: Yellow/Orange | Present | Present | Present |
+|  | Material: Elastic/Paper | Present | Present | Present |
+|  | State: Holding stacks | Present | Present | Present |
+| **Text: "ONE HUNDRED DOLLARS"** | Font: Serif | Present | Present | Present |
+|  | Color: Green | Present | Present | Present |
+| **Text: "UNITED STATES OF AMERICA"** | Font: Serif | Present | Present | Present |
+|  | Color: Green | Present | Present | Present |
+| **Text: "IN GOD WE TRUST"** | Font: Serif | Present | Present | Present |
+|  | Color: Green | Present | Present | Present |
+| **Text: "50" (Denomination)** | Font: Large numeral | Present | Present | Present |
+|  | Color: Green | Present | Present | Present |
+| **Text: "FIFTY DOLLARS"** | Font: Serif | Present | Present | Present |
+|  | Color: Green | Present | Present | Present |
+
+## Detailed Breakdown
+
+### Frame 1
+
+*   **Subject Inventory:** US Dollar Bills ($100, $50), Bands.
+*   **Detailed Attributes:**
+    *   **US Dollar Bills ($100):** Green and white paper, printed ink, textured. Loose and stacked. Visible text "ONE HUNDRED DOLLARS", "UNITED STATES OF AMERICA", "IN GOD WE TRUST".
+    *   **US Dollar Bills ($50):** Green and white paper, printed ink, textured. Stacked, held by a band. Visible text "50", "FIFTY DOLLARS".
+    *   **Bands:** Yellow/orange, elastic or paper material. Securely holding stacks of $50 bills.
+*   **Text/OCR Dump:** "ONE HUNDRED DOLLARS", "UNITED STATES OF AMERICA", "IN GOD WE TRUST", "50", "FIFTY DOLLARS".
+*   **Environment & Lighting:** Soft, diffused light source from the upper-left. Shadows are present but subtle, indicating a gentle light. Background is a shallow depth of field, with other bills out of focus.
+*   **Coordinates:**
+    *   $100 Bills: Scattered across the Left and Bottom-Left.
+    *   $50 Bills (stacked): Center-Right and Center.
+    *   Bands: Center-Right and Center.
+
+### Frame 2
+
+*   **Subject Inventory:** US Dollar Bills ($100, $50), Bands.
+*   **Detailed Attributes:**
+    *   **US Dollar Bills ($100):** Green and white paper, printed ink, textured. Loose and stacked. Visible text "ONE HUNDRED DOLLARS", "UNITED STATES OF AMERICA", "IN GOD WE TRUST".
+    *   **US Dollar Bills ($50):** Green and white paper, printed ink, textured. Stacked, held by a band. Visible text "50", "FIFTY DOLLARS".
+    *   **Bands:** Yellow/orange, elastic or paper material. Securely holding stacks of $50 bills.
+*   **Text/OCR Dump:** "ONE HUNDRED DOLLARS", "UNITED STATES OF AMERICA", "IN GOD WE TRUST", "50", "FIFTY DOLLARS".
+*   **Environment & Lighting:** Similar to Frame 1, soft, diffused light from the upper-left. Shadows are subtle. Background remains a shallow depth of field with out-of-focus bills.
+*   **Coordinates:**
+    *   $50 Bills (stacked): Dominant in the Center-Left and Center.
+    *   $100 Bills: Scattered across the Right and Bottom-Right.
+    *   Bands: Center-Left and Center.
+
+### Frame 3
+
+*   **Subject Inventory:** US Dollar Bills ($100, $50), Bands.
+*   **Detailed Attributes:**
+    *   **US Dollar Bills ($100):** Green and white paper, printed ink, textured. Loose and stacked. Visible text "ONE HUNDRED DOLLARS", "UNITED STATES OF AMERICA", "IN GOD WE TRUST".
+    *   **US Dollar Bills ($50):** Green and white paper, printed ink, textured. Stacked, held by a band. Visible text "50", "FIFTY DOLLARS".
+    *   **Bands:** Yellow/orange, elastic or paper material. Securely holding stacks of $50 bills.
+*   **Text/OCR Dump:** "ONE HUNDRED DOLLARS", "UNITED STATES OF AMERICA", "IN GOD WE TRUST", "50", "FIFTY DOLLARS".
+*   **Environment & Lighting:** Consistent with previous frames, soft, diffused light from the upper-left. Subtle shadows. Background remains out of focus.
+*   **Coordinates:**
+    *   $50 Bills (stacked): Prominent in the Left and Center-Left.
+    *   $100 Bills: Scattered across the Right and Bottom-Right.
+    *   Bands: Left and Center-Left.
+
+## Cross-Frame Delta Analysis (Motion)
+
+*   **Displacement:**
+    *   The primary stack of $50 bills, banded, has moved from the Center-Right in Frame 1 to the Center-Left in Frame 3.
+    *   The loose $100 bills have shifted their positions relative to the $50 stacks, with more visible on the right side in Frame 1 and more on the right side in Frame 3.
+*   **State Changes:** No discernible state changes in the bills or bands (e.g., no damage, no change in lighting intensity or focus). The overall scene remains consistent in terms of lighting and focus.
+*   **Hidden Data:** In Frame 1, the left side of the primary $50 stack is partially obscured by loose $100 bills. In Frame 2 and 3, this view is more clearly presented as the camera or subject shifts. Conversely, in Frame 3, the right side of the $50 stack is more prominent, with less of the $100 bills visible in that immediate area compared to Frame 1.
+
+## Semantic Context
+
+*   **The "Why":** The visual evidence strongly suggests the objective is to showcase or document a quantity of US currency, specifically $100 and $50 denominations, presented in both loose and bundled forms. This could be for financial reporting, a visual representation of wealth, or as part of a larger narrative involving monetary assets.
+*   **Technical Specs:**
+    *   **Focal Length:** Appears to be a moderate to wide focal length, allowing a significant portion of the bills to be in frame while maintaining a shallow depth of field. Likely in the 35mm-50mm range on a full-frame equivalent.
+    *   **Camera Height:** Low-angle, looking slightly upwards at the bills, which are spread out on a surface.
+
+## Final Synthesis
+
+The sequence of frames presents a static arrangement of US currency, primarily $100 and $50 bills, with a focus on stacks secured by bands. Subtle shifts in the positioning of these stacks and loose bills occur between frames, suggesting a slight camera movement or adjustment rather than a dynamic event. The consistent lighting and shallow depth of field emphasize the texture and details of the paper money, creating a visual narrative centered on the presence and presentation of financial assets.

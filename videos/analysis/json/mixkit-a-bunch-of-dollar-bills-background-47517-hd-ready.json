@@ -1,0 +1,9 @@
+{
+  "actions": ["stacking", "piling"],
+  "currencies": ["USD", "100"],
+  "spatial_tags": ["center", "bottom-right"],
+  "motion_summary": "The scene is static with no discernible displacement or changes in light, focus, or object status across frames.",
+  "semantic_tags": ["wealth_display", "financial_assets"],
+  "summary_text": "The video clip presents a static, high-density visual of numerous stacks of $100 US dollar bills. Each frame is virtually identical, showcasing a large accumulation of currency with clear markings of denomination and origin. The lighting is soft and diffused, highlighting the paper texture and banded stacks, while the dark, out-of-focus background emphasizes the subject matter. The consistent presentation across all frames suggests an intent to convey the sheer volume and presence of money, without any narrative progression or change in the scene's state.",
+  "themes": ["wealth"]
+}
